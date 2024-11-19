@@ -1,0 +1,7 @@
+<library path="rviz2_distance_tool">
+  <class name="rviz2_distance_tool::DistanceTool" type="rviz2_distance_tool::DistanceTool" base_class_type="rviz_common::Tool">
+    <description>
+      Tool for measuring distance between two points.
+    </description>
+  </class>
+</library>
